@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KorwynnWagstaff/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KorwynnWagstaff/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/KorwynnWagstaff/Flashcard-Generator#readme"
+}
